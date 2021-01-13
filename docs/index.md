@@ -65,4 +65,6 @@ The following are the main features of Soda OS. Features will be continuously up
 
 <h4>&emsp;  <code class="cyan_blue">IoT Server Plus</code></h4>
 
+<h4>&emsp;  <code class="cyan_blue">Xnode</code></h4>
+
 <h4>&emsp;  <code class="cyan_blue">PyCBasic</code></h4>
