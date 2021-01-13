@@ -1,6 +1,6 @@
 # What is the Soda OS?
 
-Soda OS allows users to use products using Hanbaek Electronics' open hardware platform directly for AI or IoT projects without additional configuration.
+Soda OS allows users to use products using Hanback Electronics' open hardware platform directly for AI or IoT projects without additional configuration.
 
 It is a dedicated operating system for AIoT learning and projects that selects and reconstructs the functions preferred by Linux developers and the functions required for the AIoT project.
 
