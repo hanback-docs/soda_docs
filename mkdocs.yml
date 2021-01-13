@@ -20,10 +20,13 @@ extra_css:
     
 nav:
     - Home: index.md
-    - Pop : pop.md
-    - Pop.AI : pop.ai.md
-    - Pop.Pilot : pop.pilot.md
-    - Pop.CAN : pop.can.md
+    - Donwload and Installation : Install.md
+    - Board Configuration : BoardConfig.md
+    - Desktop : Desktop.md
+    - Connectivity : Connectivity.md
+    - Development : Development.md
+    - Utility : Utility.md
+    - CLI Enviroment : Cli.md
     
 highlightjs: true
 hljs_languages: [python, cpp, java, javascript]
