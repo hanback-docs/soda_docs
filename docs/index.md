@@ -31,9 +31,9 @@ The following are the main features of Soda OS. Features will be continuously up
 
 <h4>&emsp;  <code class="cyan_blue">Latest BlueZ library</code></h4>
 
-<h4>&emsp;  <code class="cyan_blue">Latest MQTT Server (mosquitto)</h4>
+<h4>&emsp;  <code class="cyan_blue">Latest MQTT Server (mosquitto)</code></h4>
   
-<h4>&emsp;  <code class="cyan_blue">Blynk Server for mobile integration</h4> 
+<h4>&emsp;  <code class="cyan_blue">Blynk Server for mobile integration</code></h4> 
 
 <h2> Python data science essential library support </h2>
 
@@ -43,7 +43,7 @@ The following are the main features of Soda OS. Features will be continuously up
 
 <h4>&emsp;  <code class="cyan_blue">PyAudio, Google Assistant, python-vlc</code></h4>
 
-<h4>&emsp;  <code class="cyan_blue">OpenCV library for image processing</h4>
+<h4>&emsp;  <code class="cyan_blue">OpenCV library for image processing</code></h4>
 
 <h2> Devices supported by the Soda OS </h2>
 
