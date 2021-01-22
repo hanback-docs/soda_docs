@@ -46,13 +46,3 @@ After inserting the SD memory into the PC using an SD reader, install the Soda O
 
 <h2> Soda OS Initialization </h2>
 After writing to the SD memory, insert the SD memory into the edge device's SD memory slot and wait for the system to reboot after completing system setup in Soda OS<br>
-
-<h2>Board Configuration</h2>
-You can configure the board according to the edge device board you use.<br>
-
-<h4> Configuration Step </h4>
-&emsp;<code class="code_accent">1. Access the settings page</code> : Open a Chrome browser on the host PC and access 192.168.101.101:7000<br>
-&emsp;<code class="code_accent">2. Choose your board platform</code> : Find the board you want to set up in the picture and product name<br>
-&emsp;<code class="code_accent">3. Reboot your system</code> : It needs to be rebooted to finish the configurations<br>
-
-![image write](./picture/board_configuration.png)
