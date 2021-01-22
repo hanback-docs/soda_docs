@@ -20,10 +20,13 @@ When you run a program through the menu, the name is displayed on the program ex
 <h2> Connectivity </h2>
 
 <h3> Wi-Fi </h3>
-For internet use, you can connect Wi-Fi to a router connected to the internet. When connecting an edge device to a specific router, right-click the'System Tray> Network Settings Icon', select the AP to connect to, and enter the password.<Br>
+For internet, you can connect Wi-Fi to a router connected to the internet<br>
+When connecting an edge device to a specific router, right click the network settings icon, select the AP to connect to, and enter the password<Br>
+
+![image write](./picture/wifi_connection.png)
 
 <h3> Bluetooth </h3>
-There are two procedures for Bluetooth communication with an edge device with Soda OS installed<br>
+There are three procedures for Bluetooth communication with an edge device with Soda OS installed<br>
 &emsp;<code class="code_accent">Make Discoverable</code><br>
 &emsp;&emsp;Click the Bluetooth icon below then click "Make Discoverable" and it lasts 1 minute<br>
 &emsp;<code class="code_accent">Register the edge device</code><br>
