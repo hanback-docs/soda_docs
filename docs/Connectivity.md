@@ -14,3 +14,6 @@ There are three procedures for Bluetooth communication with an edge device with 
 &emsp;&emsp;Find the name of the edge device on your smartphone and register it<br>
 &emsp;<code class="code_accent">Confirm and Accept</code><br>
 &emsp;&emsp;Select Confirm and Accept in the windows for pairing<br>
+
+<h2> Network Analyzer </h2>
+Wireshark is one of a nice open-source network analyzer.

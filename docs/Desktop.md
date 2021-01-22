@@ -18,10 +18,16 @@ When you run a program, the name is displayed on the program execution bar. Righ
 It's recommended to select "Shutdown" from the Soda OS menu, wait for about 10 seconds, and then disconnect the power when it is completely turned off.<br><br>
 
 <h2> Program Execution </h2>
-You can also run it by selecting 'Run' from the Soda OS menu and entering the program name, just like a Windows host. This function is used when running a program not registered in the menu or running as a program with administrator privileges.<br>
+You can also run it by selecting "Run" from the Soda OS menu and entering the program name. This function is used when running a program not registered in the menu or running as a program with root privileges.<br>
 
 ![Program Execution](./picture/program_execution.png)
 
 
-<h2> Audio Configuration </h2>
-In the case of Hanbaek Electronics IoT products with speakers and microphones built into the equipment itself, no separate audio equipment is required. To adjust the volume of the speaker or microphone in Soda OS, place the mouse cursor on the ‘System Tray> Audio Settings icon’ and move the mouse wheel to adjust the volume gauge. Click the speaker icon once to silence it. To select an audio device, right-click on the ‘System Tray> Audio Settings icon’ and select Preferences<br><br>
+<h2> Audio Settings </h2>
+In the case of the edge device has speakers or microphones, you can configure speakers or microphones in Soda OS.<br>
+
+<h3>Volume</h3>
+After placing the mouse cursor on the audio settings icon, you can adjust the volume gauge by moving the mouse wheel.<br><br>
+To set the silence, click the audio setting icon.<br>
+
+<h3>Device Settings</h3>
