@@ -31,3 +31,4 @@ After placing the mouse cursor on the audio settings icon, you can adjust the vo
 To set the silence, click the audio setting icon.<br>
 
 <h3>Device Settings</h3>
+To select an audio device or manipulate additional settings, right-click on the audio settings icon and select "Preferences"
