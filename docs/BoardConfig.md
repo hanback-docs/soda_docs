@@ -10,8 +10,6 @@ At first, When the edge device is powered on and the edge device and host PC are
 <h2> Choose your target platform </h2>
 Find the board you want to set up in the picture and product name and select the product<br>
 
-
-
 <h2> Reboot your system </h2>
 It needs to be rebooted to finish the configurations<br>
 If you click "OK" in the warning window that appears in the Chrome browser, the system will reboot.
