@@ -8,28 +8,20 @@ The Soda OS desktop environment is a collection of several programs running on t
 
 <h2> Desktop components </h2>
 Soda OS desktops pursue simplicity, so it's consisted only of the desktop and panels<br><br>
-The desktop continuously displays the system monitoring, and a menu can also be displayed by right-clicking.
-When you run a program through the menu, the name is displayed on the program execution bar. Right-clicking the name will immediately close it<br>
 
-![image write](./picture/desktop_components.png)
+The menu can be displayed by right-clicking.
+When you run a program, the name is displayed on the program execution bar. Right-clicking the name will immediately close it<br>
+
+![Desktop Components](./picture/desktop_components.png)
+
+<h2> Safe Shutdown </h2>
+It's recommended to select "Shutdown" from the Soda OS menu, wait for about 10 seconds, and then disconnect the power when it is completely turned off.<br><br>
+
+<h2> Program Execution </h2>
+You can also run it by selecting 'Run' from the Soda OS menu and entering the program name, just like a Windows host. This function is used when running a program not registered in the menu or running as a program with administrator privileges.<br>
+
+![Program Execution](./picture/program_execution.png)
 
 
 <h2> Audio Configuration </h2>
-
-
-<h2> Connectivity </h2>
-
-<h3> Wi-Fi </h3>
-For internet, you can connect Wi-Fi to a router connected to the internet<br>
-When connecting an edge device to a specific router, right click the network settings icon, select the AP to connect to, and enter the password<Br>
-
-![image write](./picture/wifi_connection.png)
-
-<h3> Bluetooth </h3>
-There are three procedures for Bluetooth communication with an edge device with Soda OS installed<br>
-&emsp;<code class="code_accent">Make Discoverable</code><br>
-&emsp;&emsp;Click the Bluetooth icon below then click "Make Discoverable" and it lasts 1 minute<br>
-&emsp;<code class="code_accent">Register the edge device</code><br>
-&emsp;&emsp;Find the name of the edge device on your smartphone and register it<br>
-&emsp;<code class="code_accent">Confirm and Accept</code><br>
-&emsp;&emsp;Select Confirm and Accept in the windows for pairing<br>
+In the case of Hanbaek Electronics IoT products with speakers and microphones built into the equipment itself, no separate audio equipment is required. To adjust the volume of the speaker or microphone in Soda OS, place the mouse cursor on the ‘System Tray> Audio Settings icon’ and move the mouse wheel to adjust the volume gauge. Click the speaker icon once to silence it. To select an audio device, right-click on the ‘System Tray> Audio Settings icon’ and select Preferences<br><br>
