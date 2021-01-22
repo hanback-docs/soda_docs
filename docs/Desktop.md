@@ -24,6 +24,9 @@ For internet use, you can connect Wi-Fi to a router connected to the internet. W
 
 <h3> Bluetooth </h3>
 There are two procedures for Bluetooth communication with an edge device with Soda OS installed<br>
-&emsp;<code class="code_accent">Make Discoverable</code> : Click the Bluetooth icon below then click "Make Discoverable" and it lasts 1 minute<br>
-&emsp;<code class="code_accent">Register the edge device</code> : Find the name of the edge device on your smartphone and register it<br>
-&emsp;<code class="code_accent">Confirm and Accept</code> : select Confirm and Accept in the windows for pairing<br>
+&emsp;<code class="code_accent">Make Discoverable</code><br>
+&emsp;&emsp;Click the Bluetooth icon below then click "Make Discoverable" and it lasts 1 minute<br>
+&emsp;<code class="code_accent">Register the edge device</code><br>
+&emsp;&emsp;Find the name of the edge device on your smartphone and register it<br>
+&emsp;<code class="code_accent">Confirm and Accept</code><br>
+&emsp;&emsp;Select Confirm and Accept in the windows for pairing<br>
