@@ -9,6 +9,10 @@ There are three tools for software development<br>
 The Visual Studio Code is an open-source IDE that supports Windows, Linux, Mac. <br>
 Soda OS has Python related plugins applied, so you can start a Python project right away by running Visual Studio Code.
 
+<h3>Edit</h3>
+<h3>Run</h3>
+<h3>Debug</h3>
+
 ## <h2>Geany</h2>
 
 
