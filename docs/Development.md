@@ -34,8 +34,19 @@ Special features<br>
 &emsp;<code class="code_accent">No GUI required</code><br>
 &emsp;<code class="code_accent">Plugins</code><br>
 
-Keyboard Shortcuts
+Keyboard Shortcuts<br>
+
 ![neovim shortcuts](./picture/neovim_shortcuts.png)
 
 ## <h2>Jupyter Lab</h2>
-An open source IDE that is lighter than Visual Studio Code. Debugging is not supported for Python projects.
+A development environment that can execute Python code in cell units in the host PC environment.<br><br>
+
+After launching the Chrome browser on the host, log in using the edge device address and port number 8888 in the URL to display the login screen. The password is soda.<br>
+- http://192.168.101.101:8888
+- password : soda
+
+![jupyter lab](./picture/jupyter_lab.png)
+
+Special features<br>
+&emsp;<code class="code_accent"></code><br>
+&emsp;<code class="code_accent"></code><br>
