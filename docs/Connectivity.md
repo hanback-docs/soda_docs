@@ -1,6 +1,6 @@
 <h1> Connectivity </h1>
 
-## <h2> Wi-Fi </h2>
+## Wi-Fi
 For internet, you can connect Wi-Fi to a router connected to the internet<br><br>
 When connecting an edge device to a specific router,<br>
 
@@ -10,7 +10,7 @@ When connecting an edge device to a specific router,<br>
 
 ![Wi-Fi Connection](./picture/wifi_connection.png)
 
-## <h2> Bluetooth </h2>
+## Bluetooth
 Pairing proceeds in the form of transmitting information after one side detects it when one side exposes its information, and it is necessary to accept each other.<br><br>
 
 There are procedures for Bluetooth communication with an edge device with Soda OS installed<br>
@@ -19,7 +19,7 @@ There are procedures for Bluetooth communication with an edge device with Soda O
 - Find the name of the edge device on your smartphone and register it
 - Select Confirm and Accept in the windows for pairing
 
-## <h2> Network Analyzer </h2>
+## Network Analyzer
 Wireshark is one of a nice open-source network analyzer.<br>
 A tool that captures and analyzes packets on network interfaces in real time through kernel services.<br><br>
 

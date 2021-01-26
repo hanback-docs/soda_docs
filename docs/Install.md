@@ -1,6 +1,6 @@
 <h1> Soda OS Download and Installation </h1>
 
-## <h2> Soda OS Donwload </h2>
+## Soda OS Donwload
 To install and use Soda OS for the first time or to restore it to its initial state, you need to download the image.
 
 The download path is as follows.
@@ -22,7 +22,7 @@ The list of programs included in "host tools" is as follows.
 &emsp;<code class="code_accent">Win32DiskImager</code> : Image Writer<br>
 &emsp;<code class="code_accent">WinSCP</code> : Remote Explorer<br>
 
-## <h2> SD Card Formatting </h2>
+## SD Card Formatting
 
 This is performed when Soda OS cannot be installed by Win32DiskImager due to a logical error in the SD memory. If there is no problem, this operation is skipped.
 
@@ -34,7 +34,7 @@ Connect the prepared SD memory to an SD reader, plug it into a PC, and run SD Ca
 
 ![format](./picture/format.png)
 
-## <h2> Soda OS Installation </h2>
+## Soda OS Installation
 After inserting the SD memory into the PC using an SD reader, install the Soda OS image with Win32DiskImager.
 
 <h4> Install Step </h4>
@@ -44,5 +44,5 @@ After inserting the SD memory into the PC using an SD reader, install the Soda O
 
 ![image write](./picture/image_write.png)
 
-## <h2> Soda OS Initialization </h2>
+## Soda OS Initialization
 After writing to the SD memory, insert the SD memory into the edge device's SD memory slot and wait for the system to reboot after completing system setup in Soda OS<br>
