@@ -16,4 +16,7 @@ There are three procedures for Bluetooth communication with an edge device with 
 &emsp;&emsp;Select Confirm and Accept in the windows for pairing<br>
 
 ## <h2> Network Analyzer </h2>
-Wireshark is one of a nice open-source network analyzer.
+Wireshark is one of a nice open-source network analyzer.<br>
+A tool that captures and analyzes packets on network interfaces in real time through kernel services.
+
+![wireshark](./picture/wireshark.png)
