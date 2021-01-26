@@ -3,6 +3,7 @@
 ## <h2> Wi-Fi </h2>
 For internet, you can connect Wi-Fi to a router connected to the internet<br><br>
 When connecting an edge device to a specific router,<br>
+
 - right click the network settings icon
 - select the AP to connect to
 - enter the password
@@ -13,6 +14,7 @@ When connecting an edge device to a specific router,<br>
 Pairing proceeds in the form of transmitting information after one side detects it when one side exposes its information, and it is necessary to accept each other.<br><br>
 
 There are procedures for Bluetooth communication with an edge device with Soda OS installed<br>
+
 - Click the Bluetooth icon below then click "Make Discoverable" and it lasts 1 minute
 - Find the name of the edge device on your smartphone and register it
 - Select Confirm and Accept in the windows for pairing
