@@ -23,7 +23,7 @@ An open source IDE that is lighter than Visual Studio Code. Debugging is not sup
 ![geany](./picture/geany.png)
 
 Special features<br>
-&emsp;<code class="code_accent">Run</code><br>
+&emsp;<code class="code_accent">Very light weight IDE</code><br>
 
 ## Neovim
 Vim is an extension of Vi, a traditional Unix editor, and Neobeam is a modern reimplementation of Vim to support an asynchronous execution environment.
