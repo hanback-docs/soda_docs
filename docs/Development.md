@@ -48,5 +48,5 @@ After launching the Chrome browser on the host, log in using the edge device add
 ![jupyter lab](./picture/jupyter_lab.png)
 
 Special features<br>
-&emsp;<code class="code_accent"></code><br>
-&emsp;<code class="code_accent"></code><br>
+&emsp;<code class="code_accent">ah</code><br>
+&emsp;<code class="code_accent">ah</code><br>
