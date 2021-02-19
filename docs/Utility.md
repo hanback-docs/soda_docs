@@ -7,7 +7,7 @@ Soda OS provides several utility software for user convenience. They can be run 
 
 ## File Explorer
 
-![File Explorer](./picture/file_explorer.png)
+![File Explorer](./picture/file_manager.png)
 
 ## Archive Manager
 
