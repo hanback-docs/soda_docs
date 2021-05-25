@@ -61,6 +61,8 @@ The following are the main features of Soda OS. Features will be continuously up
 
 <h4>&emsp;  <code class="cyan_blue">AIoT SerBot Prime X</code></h4>
 
+<h4>&emsp;  <code class="cyan_blue">AIoT XUV</code></h4>
+
 <h4>&emsp;  <code class="cyan_blue">AIoT Server Plus</code></h4>
 
 <h4>&emsp;  <code class="cyan_blue">IoT Server Plus</code></h4>
